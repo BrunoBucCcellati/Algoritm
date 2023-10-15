@@ -1,0 +1,4 @@
+﻿  Algo.cpp
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\Algo\Algo.cpp(19,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\Algo\Algo.cpp(23,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Algo.vcxproj -> C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\x64\Debug\Algo.exe

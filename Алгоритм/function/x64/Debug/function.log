@@ -1,0 +1,9 @@
+﻿  function.cpp
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\function\function.cpp(5,8): warning C4273: y: несовместимое связывание dll
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\function\function.h(9,36): message : см. предыдущее определение "y"
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\function\function.cpp(15,8): warning C4273: characteristic: несовместимое связывание dll
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\function\function.h(10,36): message : см. предыдущее определение "characteristic"
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\function\function.cpp(20,8): warning C4273: shag: несовместимое связывание dll
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\function\function.h(11,36): message : см. предыдущее определение "shag"
+     Создается библиотека C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\x64\Debug\function.lib и объект C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\x64\Debug\function.exp
+  function.vcxproj -> C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\x64\Debug\function.dll

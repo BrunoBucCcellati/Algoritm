@@ -1,0 +1,12 @@
+﻿  Algo.cpp
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\Algo\Algo.cpp(6,8): warning C4273: y: несовместимое связывание dll
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\function\function.h(9,36): message : см. предыдущее определение "y"
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\Algo\Algo.cpp(30,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\Algo\Algo.cpp(34,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\x64\Release\Algo.lib и объект C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\x64\Release\Algo.exp
+  Создание кода
+  1 of 34 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Algo.vcxproj -> C:\Users\maxim\OneDrive\Рабочий стол\А ДАВАЙТЕ ПОПРОБУЕМ\function\x64\Release\Algo.exe
